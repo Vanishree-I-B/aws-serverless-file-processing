@@ -1,4 +1,4 @@
-                                                           Serverless Automation Pipeline (AWS)
+                                       Serverless Automation Pipeline (AWS)
 
 Project Overview
     This project automatically processes files uploaded to AWS S3 and sends notifications using AWS services.
@@ -19,6 +19,15 @@ Problem Statement
 3. Lambda stores data in DynamoDB
 4. SNS sends email notification
 
+ Architecture
+   See Architecture diagram in this respository
+
+ Skill Demonstrated
+1.AWS Cloud
+2.Serverless Architecture
+3.Python
+4.Event-Driven Computing
+
 key feature
 1.Fully serverless architecture
 2.Automatic event-driven processing
@@ -26,4 +35,4 @@ key feature
 4.Scalable and cost-efficient syste
 
  Goal
-To build a serverless automation system using AWS cloud services.
+To build a serverless automation system using AWS cloud services
